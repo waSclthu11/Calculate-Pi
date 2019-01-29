@@ -21,3 +21,9 @@ The approximate value of pi is 3.1315929
 Note: remember that the printed value of pi will be an estimate!
 
 """
+import math
+
+
+welp = int(input("I will estimate e. How many terms should I use? "))
+decc = int(input("How many decimal places should I use in the result? "))
+
